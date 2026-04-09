@@ -1,0 +1,23 @@
+{
+  "name": "devops-lab-01",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/truong2051220070-alt/devops-lab-01.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/truong2051220070-alt/devops-lab-01/issues"
+  },
+  "homepage": "https://github.com/truong2051220070-alt/devops-lab-01#readme",
+  "devDependencies": {
+    "jest": "^30.3.0"
+  }
+}
